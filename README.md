@@ -79,7 +79,5 @@ Example:
 ## 🤝 Contributions
 
 This is primarily a personal learning repo, but:
-
 Feel free to fork and explore😉.
-
 > Suggestions for alternative solutions or optimizations are welcome via pull requests.
